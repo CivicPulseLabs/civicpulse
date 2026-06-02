@@ -10,7 +10,7 @@ com\civicpulse\backend\dto\MessageResponse.class
 com\civicpulse\backend\service\CleanupTask.class
 com\civicpulse\backend\websocket\ChatController.class
 com\civicpulse\backend\controller\UserController.class
-com\civicpulse\backend\dto\ApiResponse.class
+com\civicpulse\backend\util\GeoUtils.class
 com\civicpulse\backend\repository\UserRepository.class
 com\civicpulse\backend\service\FileStorageService.class
 com\civicpulse\backend\websocket\WebSocketConfig.class
